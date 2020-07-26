@@ -1,10 +1,18 @@
-# New Project
+# New Project(demo)
 ```
 git init 
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Myy0508/Note.git
 git push -u origin master
+```
+
+
+# How to push code(recommend)
+```
+git add filename filename2 
+git commit -m "your commit"
+git push 
 ```
 
 # How to checkout to a new branch
